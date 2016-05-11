@@ -2,4 +2,10 @@
   <action id="Git.CompareWithBranch">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
+  <action id="Git.Stash">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="Git.Unstash">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
 </keymap>
