@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="NewPackageInfo">
+        <abbreviation name="NPI" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
