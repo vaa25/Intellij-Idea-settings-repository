@@ -1,5 +1,4 @@
 <code_scheme name="Default (1)">
-  <option name="USE_FQ_CLASS_NAMES" value="true" />
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="100" />
   <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="100" />
   <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
@@ -13,6 +12,9 @@
       <emptyLine />
     </value>
   </option>
+  <JavaCodeStyleSettings>
+    <option name="CLASS_NAMES_IN_JAVADOC" value="3" />
+  </JavaCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
