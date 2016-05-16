@@ -10,6 +10,9 @@
       <entry key="Default">
         <PlaceSettings />
       </entry>
+      <entry key="TestsFiledAssertions">
+        <PlaceSettings />
+      </entry>
     </option>
   </component>
   <component name="TextDiffSettings">
@@ -29,6 +32,11 @@
       </entry>
       <entry key="Merge">
         <PlaceSettings />
+      </entry>
+      <entry key="TestsFiledAssertions">
+        <PlaceSettings>
+          <option name="USE_SOFT_WRAPS" value="true" />
+        </PlaceSettings>
       </entry>
     </option>
   </component>
