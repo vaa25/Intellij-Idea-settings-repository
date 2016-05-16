@@ -34,9 +34,7 @@
         <PlaceSettings />
       </entry>
       <entry key="TestsFiledAssertions">
-        <PlaceSettings>
-          <option name="USE_SOFT_WRAPS" value="true" />
-        </PlaceSettings>
+        <PlaceSettings />
       </entry>
     </option>
   </component>
