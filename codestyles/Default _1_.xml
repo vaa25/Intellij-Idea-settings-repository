@@ -15,6 +15,12 @@
   <JavaCodeStyleSettings>
     <option name="CLASS_NAMES_IN_JAVADOC" value="3" />
   </JavaCodeStyleSettings>
+  <SqlCodeStyleSettings>
+    <option name="NEW_LINE_BEFORE_COMMA" value="true" />
+    <option name="NEW_LINE_BEFORE_QUERY_INSIDE_PARENTHESIS" value="true" />
+    <option name="NEW_LINE_BEFORE_QUERY_INSIDE_DML" value="true" />
+    <option name="DISABLE_FORMATTING" value="true" />
+  </SqlCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
@@ -22,5 +28,8 @@
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
     </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SQL">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
   </codeStyleSettings>
 </code_scheme>
