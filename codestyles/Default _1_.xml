@@ -17,7 +17,6 @@
   </JavaCodeStyleSettings>
   <SqlCodeStyleSettings>
     <option name="NEW_LINE_BEFORE_JOIN_CONDITION" value="true" />
-    <option name="NEW_LINE_BEFORE_COMMA" value="true" />
     <option name="NEW_LINE_BEFORE_QUERY_INSIDE_PARENTHESIS" value="true" />
     <option name="NEW_LINE_BEFORE_QUERY_INSIDE_DML" value="true" />
   </SqlCodeStyleSettings>
