@@ -1,6 +1,6 @@
 <application>
   <component name="EqualsHashCodeTemplates">
-    <option name="defaultTempalteName" value="CleanGuava equals" />
+    <option name="defaultTempalteName" value="Objects.equal and hashCode (Guava) equals" />
     <option name="templates">
       <list>
         <TemplateResource>
