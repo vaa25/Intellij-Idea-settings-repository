@@ -1,5 +1,17 @@
 <application>
   <component name="EqualsHashCodeTemplates">
-    <option name="defaultTempalteName" value="Objects.equal and hashCode (Guava) equals" />
+    <option name="defaultTempalteName" value="CleanGuava equals" />
+    <option name="templates">
+      <list>
+        <TemplateResource>
+          <option name="fileName" value="CleanGuava equals" />
+          <option name="template" value="#parse(&quot;equalsHelper.vm&quot;)&#10;public boolean equals(final Object $paramName){&#10;#addEqualsPrologue()&#10;#addClassInstance()&#10;return ##&#10;#set($i = 0)&#10;#foreach($field in $fields)&#10;    #if ($i &gt; 0)&#10;    &amp;&amp;&#10;    #end&#10;    #set($i = $i + 1)&#10;    #if ($field.primitive)&#10;        #if ($field.double || $field.float){&#10;            #addDoubleFieldComparisonConditionDirect($field)} ##&#10;        #else{&#10;            #addPrimitiveFieldComparisonConditionDirect($field) }##&#10;        #end&#10;    #elseif ($field.enum)&#10;        #addPrimitiveFieldComparisonConditionDirect($field) ##&#10;    #else&#10;    com.google.common.base.Objects.equal($field.accessor, ${classInstanceName}.$field.accessor)##&#10;    #end&#10;#end&#10;;&#10;}" />
+        </TemplateResource>
+        <TemplateResource>
+          <option name="fileName" value="CleanGuava hashCode" />
+          <option name="template" value="public int hashCode() {&#10;return com.google.common.base.Objects.hashCode(##&#10;#set($i = 0)&#10;#if($superHasHashCode)&#10;super.hashCode() ##&#10;    #set($i = 1)&#10;#end&#10;#foreach($field in $fields)&#10;    #if ($i &gt; 0)&#10;    , ##&#10;    #end&#10;    $field.accessor ##&#10;    #set($i = $i + 1)&#10;#end&#10;);&#10;}" />
+        </TemplateResource>
+      </list>
+    </option>
   </component>
 </application>
