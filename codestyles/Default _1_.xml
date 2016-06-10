@@ -1,4 +1,6 @@
 <code_scheme name="Default (1)">
+  <option name="GENERATE_FINAL_LOCALS" value="true" />
+  <option name="GENERATE_FINAL_PARAMETERS" value="true" />
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="100" />
   <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="100" />
   <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
@@ -24,6 +26,7 @@
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <codeStyleSettings language="JAVA">
+    <option name="SPACE_BEFORE_ARRAY_INITIALIZER_LBRACE" value="true" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
     </indentOptions>
