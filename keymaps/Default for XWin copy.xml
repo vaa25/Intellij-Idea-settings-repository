@@ -2,6 +2,9 @@
   <action id="Git.CompareWithBranch">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
+  <action id="Git.Revert">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
   <action id="Git.Stash">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
