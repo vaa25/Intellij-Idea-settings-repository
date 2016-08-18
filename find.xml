@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '[sscore-incidents_main] - .../sscore-incidents/src/main/resources/sql/incident.sql'" />
     <option name="defaultScopeName" value="File '[sscore-incidents_main] - .../sscore-incidents/src/main/resources/sql/incident.sql'" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File '[sscore-incidents_main] - .../sscore-incidents/src/main/resources/sql/incident.sql'" />
   </component>
 </application>
