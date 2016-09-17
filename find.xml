@@ -3,7 +3,7 @@
     <option name="customScope" value="File '[sscore-incidents_main] - .../sscore-incidents/src/main/resources/sql/incident.sql'" />
     <option name="defaultScopeName" value="File '[sscore-incidents_main] - .../sscore-incidents/src/main/resources/sql/incident.sql'" />
     <option name="SEARCH_SCOPE" value="File '[sscore-incidents_main] - .../sscore-incidents/src/main/resources/sql/incident.sql'" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="GeneratedJavaTokenTypes.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,6 +15,7 @@
       <mask>*.mxml</mask>
       <mask>temp.js</mask>
       <mask>*.java</mask>
+      <mask>GeneratedJavaTokenTypes.java</mask>
     </recentFileMasks>
   </component>
 </application>
