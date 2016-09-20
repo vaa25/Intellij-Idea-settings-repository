@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="mysql_mode" description="mysql -u root -p12345 -h 0.0.0.0 -P 6603 -e   &quot;SET GLOBAL sql_mode = '';&quot; " showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="mysql" />
+      <option name="PARAMETERS" value="-u root -p12345 -h 0.0.0.0 -P 6603 -e   &quot;SET GLOBAL sql_mode = '';&quot; " />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
