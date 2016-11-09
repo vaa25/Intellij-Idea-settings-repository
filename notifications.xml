@@ -1,6 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="CheckStyle" shouldLog="false" />
+    <notification groupId="CheckStyle" displayType="NONE" />
     <notification groupId="Unindexed maven repositories gradle detection" displayType="NONE" shouldLog="false" />
   </component>
 </application>
