@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="jmx" type="Native" />
       <mapping pattern="cron_backups_feeds_schedule" type="PLAIN_TEXT" />
+      <mapping pattern="StoredCredential" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
