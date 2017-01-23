@@ -1,15 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project 'socialscore'" />
     <option name="defaultScopeName" value="Project 'socialscore'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'socialscore'" />
-    <option name="FILE_MASK" value="*.go" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -22,9 +20,9 @@
       <mask>temp.js</mask>
       <mask>GeneratedJavaTokenTypes.java</mask>
       <mask>changelog.sql</mask>
-      <mask>*.java</mask>
       <mask>*.sql</mask>
       <mask>*.go</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
