@@ -4,6 +4,7 @@
       <mapping ext="jmx" type="Native" />
       <mapping pattern="cron_backups_feeds_schedule" type="PLAIN_TEXT" />
       <mapping pattern="StoredCredential" type="PLAIN_TEXT" />
+      <mapping pattern="percona" type="PLAIN_TEXT" />
       <mapping ext="property" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
