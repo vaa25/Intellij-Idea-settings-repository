@@ -8,6 +8,5 @@
     <entry key="ide.editor.tabs.open.at.the.end" value="true" />
     <entry key="tabs.alphabetical" value="true" />
     <entry key="ide.windowSystem.autoShowProcessPopup" value="true" />
-    <entry key="debugger.showTypes" value="false" />
   </component>
 </application>
