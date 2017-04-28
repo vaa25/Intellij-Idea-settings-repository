@@ -11,6 +11,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -30,11 +31,11 @@
       <mask>*.pr</mask>
       <mask>*.pro</mask>
       <mask>*.properties</mask>
-      <mask>*.j</mask>
       <mask>*.ja</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
-      <mask>*.</mask>
     </recentFileMasks>
   </component>
 </application>
