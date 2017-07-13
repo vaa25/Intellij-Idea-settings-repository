@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
@@ -16,7 +16,6 @@
       <mask>temp.js</mask>
       <mask>GeneratedJavaTokenTypes.java</mask>
       <mask>changelog.sql</mask>
-      <mask>*.sql</mask>
       <mask>*.go</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
@@ -25,11 +24,14 @@
       <mask>*.pr</mask>
       <mask>*.pro</mask>
       <mask>*.properties</mask>
-      <mask>*.ja</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sq</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
