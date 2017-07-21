@@ -5,6 +5,7 @@
       <mapping pattern="StoredCredential" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="percona" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping ext="property" type="PLAIN_TEXT" />
       <mapping ext="jmx" type="XML" />
       <mapping ext="fnc" type="DBN-PSQL" />
