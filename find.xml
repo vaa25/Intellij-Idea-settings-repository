@@ -7,8 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
@@ -27,14 +27,18 @@
       <mask>*.sql</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
-      <mask>*.java</mask>
       <mask>*.jav</mask>
-      <mask>*.ja</mask>
+      <mask>*.json</mask>
+      <mask>*.jso</mask>
+      <mask>*.js</mask>
+      <mask>*.jjava</mask>
+      <mask>*.jjav</mask>
+      <mask>*.jja</mask>
+      <mask>*.jj</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>*.jso</mask>
-      <mask>*.json</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
