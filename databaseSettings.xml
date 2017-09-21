@@ -1,6 +1,6 @@
 <application>
   <component name="DatabaseSettings" version="2">
-    <option name="page-size" value="100000" />
+    <option name="page-size" value="1000" />
     <text-mode in-scripts="true" in-literals="true">
       <parameter-patterns>
         <parameter-pattern value="\?(\d+)" predefined="true" />
