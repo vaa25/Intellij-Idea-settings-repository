@@ -2,7 +2,9 @@
   <component name="ParameterNameHintsSettings">
     <blacklists>
       <blacklist language="TypeScript" />
-      <blacklist language="Java" />
+      <blacklist language="Java">
+        <added pattern="org.springframework.mock.web.MockMultipartFile.MockMultipartFile(name,originalFilename,contentType,content)" />
+      </blacklist>
       <blacklist language="PHP">
         <removed pattern="" />
       </blacklist>
