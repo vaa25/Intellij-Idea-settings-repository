@@ -2,8 +2,8 @@
   <component name="ExternalResourceManagerImpl">
     <resource url="http://pmd.sf.net/ruleset/1.0.0" location="$USER_HOME$/.IntelliJIdea2016.1/system/extResources/8a117d51_ruleset_xml_schema.xsd" />
     <resource url="http://pmd.sf.net/ruleset/2.0.0" location="$USER_HOME$/.IntelliJIdea2016.1/system/extResources/8a117d51_ruleset_xml_schema.xsd" />
-    <resource url="http://pmd.sf.net/ruleset_xml_schema.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/8a117d51_ruleset_xml_schema.xsd" />
-    <resource url="http://pmd.sourceforge.net/ruleset/2.0.0" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/f3eabfe9_ruleset_2_0_0.xsd" />
+    <resource url="http://pmd.sf.net/ruleset_xml_schema.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/8a117d51_ruleset_xml_schema.xsd" />
+    <resource url="http://pmd.sourceforge.net/ruleset/2.0.0" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/f3eabfe9_ruleset_2_0_0.xsd" />
     <resource url="http://www.puppycrawl.com/dtds/configuration_1_3.dtd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/1524e8b2_configuration_1_3.dtd" />
     <resource url="http://www.puppycrawl.com/dtds/suppressions_1_1.dtd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/1ea4f47a_suppressions_1_1.dtd" />
   </component>
