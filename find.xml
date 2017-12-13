@@ -5,21 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*ControllerTest.java" />
     <recentFileMasks>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>temp.js</mask>
-      <mask>GeneratedJavaTokenTypes.java</mask>
-      <mask>changelog.sql</mask>
-      <mask>*.go</mask>
-      <mask>*.p</mask>
-      <mask>*.pr</mask>
-      <mask>*.pro</mask>
-      <mask>*.properties</mask>
-      <mask>*.json</mask>
-      <mask>*.jso</mask>
-      <mask>*.js</mask>
       <mask>*.jjava</mask>
       <mask>*.jjav</mask>
       <mask>*.jja</mask>
@@ -36,6 +23,20 @@
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*T.java</mask>
+      <mask>*Te.java</mask>
+      <mask>*Tes.java</mask>
+      <mask>*Test.java</mask>
+      <mask>*CTest.java</mask>
+      <mask>*CoTest.java</mask>
+      <mask>*ConTest.java</mask>
+      <mask>*ContTest.java</mask>
+      <mask>*ContrTest.java</mask>
+      <mask>*ControTest.java</mask>
+      <mask>*ControlTest.java</mask>
+      <mask>*ControllTest.java</mask>
+      <mask>*ControlleTest.java</mask>
+      <mask>*ControllerTest.java</mask>
     </recentFileMasks>
   </component>
 </application>
