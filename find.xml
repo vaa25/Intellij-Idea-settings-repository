@@ -2,13 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.sql</mask>
-      <mask>*.sq</mask>
       <mask>*.s</mask>
       <mask>*T.java</mask>
       <mask>*Te.java</mask>
@@ -29,7 +25,6 @@
       <mask>*.jav</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
@@ -37,6 +32,9 @@
       <mask>*.ht</mask>
       <mask>*.htm</mask>
       <mask>*.html</mask>
+      <mask>*.html*.java</mask>
+      <mask>*.htm*.java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
