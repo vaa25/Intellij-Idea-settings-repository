@@ -5,9 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.s</mask>
       <mask>*T.java</mask>
       <mask>*Te.java</mask>
       <mask>*Tes.java</mask>
@@ -23,7 +22,6 @@
       <mask>*ControlleTest.java</mask>
       <mask>*ControllerTest.java</mask>
       <mask>*t.java</mask>
-      <mask>*.</mask>
       <mask>*.jav</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
@@ -35,8 +33,10 @@
       <mask>*.html*.java</mask>
       <mask>*.htm*.java</mask>
       <mask>*.html</mask>
-      <mask>*.java</mask>
       <mask>*.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
