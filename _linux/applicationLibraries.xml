@@ -48,5 +48,17 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="recaptcha__en" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.gstatic.com_recaptcha_api2_v1515997865826_recaptcha__en.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_www.gstatic.com_recaptcha_api2_v1515997865826_recaptcha__en.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
 </application>
