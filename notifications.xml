@@ -1,6 +1,7 @@
 <application>
   <component name="NotificationConfiguration">
     <notification groupId="CheckStyle" displayType="NONE" />
+    <notification groupId="Checkstyle IDEA Alerts" shouldLog="false" />
     <notification groupId="FindBugs: Analysis Finished" displayType="NONE" shouldLog="false" />
     <notification groupId="Unindexed maven repositories gradle detection" displayType="NONE" shouldLog="false" />
   </component>
