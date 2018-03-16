@@ -1,18 +1,18 @@
 <application>
-  <component name="DatabaseSettings" version="2">
-    <option name="page-size" value="1000" />
-    <text-mode in-scripts="true" in-literals="true">
+  <component name="DatabaseSettings" version="3">
+    <option name="page-size" value="2000" />
+    <text-mode>
       <parameter-patterns>
-        <parameter-pattern value="\?(\d+)" predefined="true" />
-        <parameter-pattern value=":(\w+)" scope="*,-PostgreSQL" predefined="true" />
-        <parameter-pattern value="%\w+" scope="JAVA,Python" predefined="true" />
-        <parameter-pattern value="\$\{([^\{\}]*)\}" predefined="true" />
-        <parameter-pattern value="\$\(([^\)]+)\)" predefined="true" />
-        <parameter-pattern value="\$(\w+)\$" scope="*,-PostgreSQL" predefined="true" />
-        <parameter-pattern value="#(\w+)#" scope="XML" predefined="true" />
-        <parameter-pattern value="(?&lt;=\W|\A)\$(\d+|[a-zA-Z_](?:\w|\.)*)\$?(?=\W|\z)" scope="*,-SQL,Oracle,OracleSqlPlus,PostgreSQL,PostgresPLSQL" predefined="true" />
-        <parameter-pattern value="(?&lt;=\W|\A)#(\d+|[a-zA-Z_](?:\w|\.)*)#?(?=\W|\z)" scope="*,-SQL,Oracle,OracleSqlPlus,PostgreSQL,PostgresPLSQL" predefined="true" />
-        <parameter-pattern value="%\((\w+)\)s" scope="Python" predefined="true" />
+        <parameter-pattern value="\?(\d+)" />
+        <parameter-pattern value=":(\w+)" scope="*,-PostgreSQL" />
+        <parameter-pattern value="%\w+" scope="JAVA,Python" predefined="%name" />
+        <parameter-pattern value="\$\{([^\{\}]*)\}" predefined="${name}" />
+        <parameter-pattern value="\$\(([^\)]+)\)" predefined="$(name)" />
+        <parameter-pattern value="\$(\w+)\$" scope="*,-PostgreSQL" />
+        <parameter-pattern value="#(\w+)#" scope="XML" predefined="#name#" />
+        <parameter-pattern value="(?&lt;=\W|\A)\$(\d+|[a-zA-Z_](?:\w|\.)*)\$?(?=\W|\z)" scope="*,-SQL" predefined="$a.b.c$?" />
+        <parameter-pattern value="(?&lt;=\W|\A)#(\d+|[a-zA-Z_](?:\w|\.)*)#?(?=\W|\z)" scope="*,-SQL" predefined="#a.b.c#?" />
+        <parameter-pattern value="%\((\w+)\)s" scope="Python" predefined="%(name)s" />
       </parameter-patterns>
     </text-mode>
     <csv-formats>
