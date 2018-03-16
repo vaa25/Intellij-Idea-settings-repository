@@ -1,13 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="preserveCase" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*Database.java" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*Te.java</mask>
       <mask>*Tes.java</mask>
@@ -37,8 +35,8 @@
       <mask>*.</mask>
       <mask>*.html</mask>
       <mask>*.xml</mask>
-      <mask>*.java</mask>
       <mask>*Database.java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
