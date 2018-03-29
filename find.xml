@@ -7,7 +7,7 @@
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.html" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*Te.java</mask>
       <mask>*Tes.java</mask>
@@ -37,8 +37,8 @@
       <mask>*.</mask>
       <mask>*Database.java</mask>
       <mask>*.xml</mask>
-      <mask>*.java</mask>
       <mask>*.html</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
