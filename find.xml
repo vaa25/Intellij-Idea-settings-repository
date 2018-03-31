@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="Project Files" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*Te.java</mask>
       <mask>*Tes.java</mask>
@@ -34,9 +34,9 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*Database.java</mask>
-      <mask>*.xml</mask>
       <mask>*.html</mask>
       <mask>*.java</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
