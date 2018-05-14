@@ -1,12 +1,5 @@
 <application>
   <component name="NodeRendererSettings">
-    <Renderer ID="ArrayRenderer">
-      <option name="NAME" value="unnamed" />
-      <option name="ENABLED" value="true" />
-      <option name="START_INDEX" value="0" />
-      <option name="END_INDEX" value="99" />
-      <option name="ENTRIES_LIMIT" value="99" />
-    </Renderer>
     <Renderer ID="ToStringRenderer">
       <option name="NAME" value="unnamed" />
     </Renderer>
@@ -26,5 +19,16 @@
       <option name="NAME" value="Primitive" />
       <option name="SHOW_HEX_VALUE" value="false" />
     </Renderer>
+    <CustomRenderers VERSION="8">
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="java.util.ArrayList" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="java.util.ArrayList" />
+        <Renderer ID="EnumerationChildrenRenderer" role="children">
+          <option name="QUALIFIED_NAME" value="java.util.ArrayList" />
+          <option name="AppendDefault" value="true" />
+        </Renderer>
+      </Renderer>
+    </CustomRenderers>
   </component>
 </application>
