@@ -1,5 +1,6 @@
 <application>
   <component name="NodeRendererSettings">
+    <option name="ALTERNATIVE_COLLECTION_VIEW_ENABLED" value="false" />
     <Renderer ID="ToStringRenderer">
       <option name="NAME" value="unnamed" />
     </Renderer>
