@@ -7,6 +7,7 @@
       <mapping pattern="StoredCredential" type="PLAIN_TEXT" />
       <mapping pattern=".htpaswd" type="PLAIN_TEXT" />
       <mapping pattern="cron_backups_feeds_schedule" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="property" type="PLAIN_TEXT" />
       <mapping ext="jmx" type="XML" />
       <mapping ext="fnc" type="DBN-PSQL" />
