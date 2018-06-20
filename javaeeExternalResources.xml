@@ -1,5 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="dataset.dtd" location="$USER_HOME$/IdeaProjects/provectus2/src/test/resources/dbunit/dataset.dtd" />
     <resource url="http://pmd.sf.net/ruleset/1.0.0" location="$USER_HOME$/.IntelliJIdea2016.1/system/extResources/8a117d51_ruleset_xml_schema.xsd" />
     <resource url="http://pmd.sf.net/ruleset/2.0.0" location="$USER_HOME$/.IntelliJIdea2016.1/system/extResources/8a117d51_ruleset_xml_schema.xsd" />
     <resource url="http://pmd.sf.net/ruleset_xml_schema.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/8a117d51_ruleset_xml_schema.xsd" />
