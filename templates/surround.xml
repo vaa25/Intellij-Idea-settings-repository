@@ -1,0 +1,7 @@
+<templateSet group="surround">
+  <template name="&quot;" value="&quot;$SELECTION$&quot;" description="Surround with &quot;&quot;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
