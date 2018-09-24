@@ -10,6 +10,7 @@
       <mapping pattern="" type="PLAIN_TEXT" />
       <mapping ext="property" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="45" type="PLAIN_TEXT" />
       <mapping ext="jmx" type="XML" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
