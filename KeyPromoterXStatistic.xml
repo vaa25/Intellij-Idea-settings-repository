@@ -25,6 +25,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'DefaultMarathonPullServiceTest.pullPrematch'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'DefaultMarathonPullServiceTest.pullPrematch'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'ScorezooMarathonApplication'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -270,7 +278,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>100</Count>
+          <Count>101</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
