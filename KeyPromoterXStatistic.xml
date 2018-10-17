@@ -369,6 +369,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'VerificatorControllerIntegrationTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'VerificatorControllerIntegrationTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'fetchEventFrontStr...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
