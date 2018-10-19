@@ -265,6 +265,14 @@
           <Count>72</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'BasketballStatusParserTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'BasketballStatusParserTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'DefaultMarathonPullServiceTest'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -462,7 +470,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>145</Count>
+          <Count>146</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
