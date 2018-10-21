@@ -1,11 +1,12 @@
 <application>
   <component name="DatabaseSettings" version="3">
     <option name="page-size" value="2000" />
+    <option name="always-show-console-toolbar" value="true" />
     <text-mode>
       <parameter-patterns>
         <parameter-pattern value="\?(\d+)" />
         <parameter-pattern value=":(\w+)" scope="*,-PostgreSQL" />
-        <parameter-pattern value="%\w+" scope="JAVA,Python" predefined="%name" />
+        <parameter-pattern value="%\w+" scope="JAVA,Python,PHP" predefined="%name" />
         <parameter-pattern value="\$\{([^\{\}]*)\}" predefined="${name}" />
         <parameter-pattern value="\$\(([^\)]+)\)" predefined="$(name)" />
         <parameter-pattern value="\$(\w+)\$" scope="*,-PostgreSQL" />
