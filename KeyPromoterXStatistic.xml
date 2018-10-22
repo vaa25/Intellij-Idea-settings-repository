@@ -406,7 +406,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ScorezooMarathonContentPullApplication'</Description>
-          <Count>75</Count>
+          <Count>81</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ScorezooMarathonSportApplication'">
