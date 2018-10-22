@@ -401,14 +401,6 @@
           <Count>4</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run 'ScorezooMarathonContentPullApplication'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'Shift+F10'</ShortCut>
-          <Description>Run 'ScorezooMarathonContentPullApplication'</Description>
-          <Count>90</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Run 'ScorezooMarathonSportApplication'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -502,7 +494,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>161</Count>
+          <Count>163</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -529,6 +521,14 @@
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
           <Count>13</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ScorezooMarathonContentPullApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'ScorezooMarathonContentPullApplication'</Description>
+          <Count>91</Count>
         </Item>
       </Statistic>
     </option>
