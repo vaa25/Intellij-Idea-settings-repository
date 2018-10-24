@@ -441,6 +441,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'UTCTimeZoneMySQLTimestampTest.test'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'UTCTimeZoneMySQLTimestampTest.test'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'VerificatorApplication'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
