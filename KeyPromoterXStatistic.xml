@@ -321,6 +321,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'ConfigApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'ConfigApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'DefaultMarathonPullServiceTest'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -415,6 +423,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'PartResultTest'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'ScorezooDiscoveryServiceApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'ScorezooDiscoveryServiceApplication'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ScorezooMarathonAppl...'">
