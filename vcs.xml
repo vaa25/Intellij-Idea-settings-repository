@@ -162,6 +162,10 @@
           <option name="url" value="git@github.com:vladmihalcea/high-performance-java-persistence.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:piomin/sample-spring-microservices-new.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
