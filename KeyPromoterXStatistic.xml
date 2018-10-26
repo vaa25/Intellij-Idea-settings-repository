@@ -257,14 +257,6 @@
           <Count>3</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run">
-        <Item>
-          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
-          <ShortCut>'Alt+4'</ShortCut>
-          <Description>Run</Description>
-          <Count>14</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Run 'AdminConsoleApplicat...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -470,7 +462,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ScorezooConfigServiceApplication'</Description>
-          <Count>3</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ScorezooDiscoveryServiceApplication'">
@@ -502,7 +494,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ScorezooMarathonSportApplication'</Description>
-          <Count>38</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'SportControllerIntegrationTest.fetchesTournamentsByDate'">
@@ -641,6 +633,14 @@
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
           <Count>13</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
+          <ShortCut>'Alt+4'</ShortCut>
+          <Description>Run</Description>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ScorezooMarathonContentPullApplication'">
