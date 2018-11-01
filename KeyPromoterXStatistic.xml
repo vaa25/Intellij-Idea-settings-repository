@@ -449,6 +449,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'OutcomeRepositoryTest.findAllByActiveIsTrue'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'OutcomeRepositoryTest.findAllByActiveIsTrue'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'PartResultTest'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
