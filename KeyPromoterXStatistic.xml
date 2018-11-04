@@ -310,7 +310,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'All in sport'</Description>
-          <Count>126</Count>
+          <Count>128</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'All in sport_test'">
@@ -526,7 +526,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ScorezooMarathonSportApplication'</Description>
-          <Count>47</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'SportControllerIntegrationTest.fetchesTournamentsByDate'">
