@@ -321,6 +321,14 @@
           <Count>72</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'AwayTotalGoalsBetResultTest'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'AwayTotalGoalsBetResultTest'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'BasketballStatusParserTest'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
