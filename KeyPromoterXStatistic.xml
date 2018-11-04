@@ -561,6 +561,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'fetchCampaignsToPa...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'fetchCampaignsToPa...()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'fetchEventFrontStr...()'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -591,6 +599,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'pullPrematch()'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'sscore.verificator in verificator-processing_test'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'sscore.verificator in verificator-processing_test'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Set NULL">
