@@ -1,8 +1,0 @@
-<keymap version="1" name="Default copy" parent="$default">
-  <action id="Git.CompareWithBranch">
-    <keyboard-shortcut first-keystroke="alt b" />
-  </action>
-  <action id="Vcs.ShowTabbedFileHistory">
-    <keyboard-shortcut first-keystroke="alt h" />
-  </action>
-</keymap>
